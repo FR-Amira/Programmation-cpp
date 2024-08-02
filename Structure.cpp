@@ -21,7 +21,7 @@ struct jobs
     string job;
     void printjob(){
         cout<<"Name :"<<this->name<<endl;
-        cout<<"Age: "<<this->job<<endl;
+        cout<<"job: "<<this->job<<endl;
     }
 }j1,j2;
 
