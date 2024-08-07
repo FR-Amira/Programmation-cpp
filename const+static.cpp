@@ -46,7 +46,7 @@ int main(){
    //b1.printB();  // affi bi object
   // errur b1 static b1.b=20;
  //2 methode  
-  B::printB();  // affi bi clss
+  B::printB();  // affi bi clss sans utise object
 
 cout<<B::b<<endl;
     return 0;

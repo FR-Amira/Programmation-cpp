@@ -8,7 +8,7 @@ class person {
    int age;  
   void affiche(){
       cout<<"Nom :"<<this->nom<<endl;
-      cout<<"Age: "<<this->age<<endl;
+      cout<<"Age: "<<this->age<<endl;   //this-> tab3 object par exp p1
   } 
 }p1;
 
