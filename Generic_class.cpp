@@ -16,8 +16,8 @@ template<class E, class K>  //ta3ml template fo9 clss eli bech test3mlo
 class B {
     public:
     void printB(E s ,K p){
-    cout<<"S= "<<s<<endl;
-    cout<<"P = "<<p<<endl;
+    cout<<"S= "<<s<<endl<<"P = "<<p<<endl;
+    
 }
 };
 
